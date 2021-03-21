@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name = "email_hint">simpleEmail@pochta.kek</string>
+    <string name = "first_name_hint">Имя</string>
+    <string name = "second_name_hint">Фамилия</string>
+    <string name = "password_hint">Пароль</string>
+    <string name = "check_password_hint">Подтверждение пароля</string>
+
+</resources>
